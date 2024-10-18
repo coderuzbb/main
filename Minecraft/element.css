@@ -1,0 +1,509 @@
+.countainer-top {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+    box-shadow: 10px 0px 5px 0px ;
+    height: 100px ;
+    
+}
+.img2 {
+    position: relative;
+    right: 7px ;
+    display: inline-block;
+}
+.img1 {
+    margin-bottom: 23px ;
+    margin-left: 20px ;
+    display: inline-block;
+}
+.img3 {
+    margin-bottom: 15px ;
+    position: relative;
+    right: 14px ;
+    display: inline-block;
+    
+}
+.brand {
+    display: inline-block;
+}
+/* img sahifasi */
+
+/* text sahifasi */
+    .nav-all {
+        display: inline-block;
+        vertical-align: middle;
+        margin: 10px ;
+        position: relative;
+        bottom: 17px ;
+        left: 850px ;
+        font-weight: bold;
+        
+        font-size: 20px ;
+    }
+    .nav-all_items {
+        display: inline-block;
+        vertical-align: middle;
+        margin: 10px ;
+        
+    }
+    .knopka {
+        margin-left: 65px ;
+        
+    }
+    .knopka-style {
+        padding: 13px 70px ;
+        background-color: cyan;
+        border: none;
+        border-radius: 20px 0px 20px 0px ;
+        color: white;
+        box-shadow: 0 0 5px cyan, 0 0 25px cyan;
+    }
+    .knopka-style:hover {
+        box-shadow: 0 0 5px cyan,
+        0 0 25px cyan, 0 0 50px cyan,
+        0 0 100px cyan, 0 0 200px cyan  ;
+    }
+    
+    .none {
+        text-decoration: none;
+        color: black;
+
+    }
+    span {
+        color: gray;
+    }
+    .nav-all_items:hover {
+        color: gray;
+    }
+ 
+    /* asosiy  */
+
+.asosiy-element {
+    box-shadow: 0px 0px 3px 0px ;
+    border-radius: 15px ;
+    width: 210px ;
+    height: 270px ;
+    margin: 50px ;
+    
+}
+.asosiy-element1 {
+    box-shadow: 0px 0px 3px 0px ;
+    border-radius: 15px ;
+    width: 210px ;
+    height: 270px ;
+    margin: 50px ;
+    
+}
+.asosiy-element2 {
+    box-shadow: 0px 0px 3px 0px ;
+    border-radius: 15px ;
+    width: 210px ;
+    height: 270px ;
+    margin: 50px ;
+    
+}
+.asosiy-element3 {
+    box-shadow: 0px 0px 3px 0px ;
+    border-radius: 15px ;
+    width: 210px ;
+    height: 270px ;
+    margin: 50px ;
+    
+}
+.asosiy-element4 {
+    box-shadow: 0px 0px 3px 0px ;
+    border-radius: 15px ;
+    width: 210px ;
+    height: 270px ;
+    margin: 50px ;
+    
+}
+/* flex qism */
+.flex {
+    display: flex;
+    justify-content: center;
+   
+}
+.flex2   {
+    display: flex;
+    justify-content: center;
+   
+}
+.flex3 {
+    display: flex;
+    justify-content: center;
+   
+}
+
+/* flex qism */
+.imglar {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 30px ;
+}
+.asosiy-element5 {
+    box-shadow: 0px 0px 3px 0px ;
+    border-radius: 15px ;
+    width: 210px ;
+    height: 270px ;
+    margin: 50px ;
+    
+}
+.asosiy-element6 {
+    box-shadow: 0px 0px 3px 0px ;
+    border-radius: 15px ;
+    width: 210px ;
+    height: 270px ;
+    margin: 50px ;
+    
+}
+.asosiy-element7 {
+    box-shadow: 0px 0px 3px 0px ;
+    border-radius: 15px ;
+    width: 210px ;
+    height: 270px ;
+    margin: 50px ;
+    
+}
+.asosiy-element8 {
+    box-shadow: 0px 0px 3px 0px ;
+    border-radius: 15px ;
+    width: 210px ;
+    height: 270px ;
+    margin: 50px ;
+    
+}
+.asosiy-element9 {
+    box-shadow: 0px 0px 3px 0px ;
+    border-radius: 15px ;
+    width: 210px ;
+    height: 270px ;
+    margin: 50px ;
+    
+}
+.img-element {
+    position: relative;
+    left: 820px ;
+    bottom: 50px ;
+}
+.asosiy-element10 {
+    box-shadow: 0px 0px 3px 0px ;
+    border-radius: 15px ;
+    width: 210px ;
+    height: 270px ;
+    margin: 50px ;
+    
+}
+.asosiy-element11 {
+    box-shadow: 0px 0px 3px 0px ;
+    border-radius: 15px ;
+    width: 210px ;
+    height: 270px ;
+    margin: 50px ;
+    
+}
+.asosiy-element12 {
+    box-shadow: 0px 0px 3px 0px ;
+    border-radius: 15px ;
+    width: 210px ;
+    height: 270px ;
+    margin: 50px ;
+    
+}
+.asosiy-element13 {
+    box-shadow: 0px 0px 3px 0px ;
+    border-radius: 15px ;
+    width: 210px ;
+    height: 270px ;
+    margin: 50px ;
+    
+}
+.asosiy-element14 {
+    box-shadow: 0px 0px 3px 0px ;
+    border-radius: 15px ;
+    width: 210px ;
+    height: 270px ;
+    margin: 50px ;
+    
+}
+.asosiy-element15 {
+    box-shadow: 0px 0px 3px 0px ;
+    border-radius: 15px ;
+    width: 210px ;
+    height: 270px ;
+    margin: 50px ;
+    
+}
+/* elementning ichki qismi 1-qator */
+.asosiy-element {
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.asosiy-element1 {
+    display: flex;
+    justify-content: center;
+}
+.asosiy-element2 {
+    display: flex;
+    justify-content: center;
+}
+.asosiy-element3 {
+    display: flex;
+    justify-content: center;
+}
+.asosiy-element4 {
+    display: flex;
+    justify-content: center;
+}
+/* elementning ichki qismi 1-qator */
+
+/* elementning ichki qismi 2-qator */
+.asosiy-element5 {
+    display: flex;
+    justify-content: center;
+}
+.asosiy-element6 {
+    display: flex;
+    justify-content: center;
+}
+.asosiy-element7 {
+    display: flex;
+    justify-content: center;
+}
+.asosiy-element8 {
+    display: flex;
+    justify-content: center;
+}
+.asosiy-element9 {
+    display: flex;
+    justify-content: center;
+}
+/* elementning ichki qismi 2-qator */
+
+/* elementning ichki qismi 3-qator */
+.asosiy-element10 {
+    display: flex;
+    justify-content: center;
+}
+.asosiy-element11 {
+    display: flex;
+    justify-content: center;
+}
+.asosiy-element12 {
+    display: flex;
+    justify-content: center;
+}
+.asosiy-element13 {
+    display: flex;
+    justify-content: center;
+}
+.asosiy-element14 {
+    display: flex;
+    justify-content: center;
+}   
+/* elementning ichki qismi 3-qator */
+
+/* elementning ichki rassmi 1-qator  */
+.asosiy-element_brand {
+    margin-top: 168px ;
+    margin-left: 200px  ;
+}
+.images-sword {
+    position: relative;
+    top: 10px ;
+    right: 130px ;
+}
+.asosiy-element_brand1 {
+    margin-top: 168px ;
+    margin-left: 200px ;
+}
+.images-sword1 {
+    position: relative;
+    top: 10px ;
+    right: 130px ;
+}
+.asosiy-element_brand2 {
+    margin-top: 168px ;
+    margin-left: 100px ;
+
+}
+.images-sword2{
+    position: relative;
+    right: 80px ;
+    margin-top: 10px ;
+}
+.asosiy-element_brand3 {
+    margin-top: 168px ;
+    margin-left: 100px ;
+}
+.images-sword3{
+    position: relative;
+    right: 80px ;
+    margin-top: 10px ;
+}
+.asosiy-element_brand4 {
+    margin-top: 168px ;
+    margin-left: 150px ;
+}
+.images-sword4{
+    position: relative;
+    right: 100px ;
+    bottom: 25px ;
+   
+}
+
+/* elementning ichki rassmi 1-qator  */
+
+/* elementning ichki rassmi 2-qator  */
+    .images-craft {
+        margin-top: 166px;
+        margin-left: 140px ;
+    }
+    .img-bow {
+     position: relative;
+     right: 120px ; 
+    }
+    .images-craft2 {
+        margin-top: 166px ;
+        margin-left: 100px ;
+    }
+    .img-crosbow {
+        position: relative;
+        right: 100px ;
+        margin-top: 10px ;
+    }
+
+    .img-craft3 {
+        margin-top: 166px ;
+        margin-left: 200px ;
+    }
+    .img-arrow {
+        position: relative;
+        right: 130px ;
+    }
+    .img-craft4 {
+        margin-top: 166px ;
+        margin-left: 80px ;
+    }
+    .flint-and_steel {
+        position: relative;
+        right: 90px ;
+        margin-top: 10px ;
+    }
+    .img-craft5 {
+        margin-top: 166px   ;
+        margin-left: 100px ;
+    }
+    .img-mace {
+        position: relative;
+        right: 90px ;
+        margin-top: 10px ;
+    }
+    /* elementning ichki rassmi 2-qator  */
+
+    /* elementning ichki rassmi 3-qator  */
+
+    .img-craft6 {
+        margin-top: 166px ;
+        margin-left: 100px ;
+    }
+    .img-caska {
+        position: relative;
+        right: 95px ;
+        margin-top: 10px ;
+    }
+    .img-craft7 {
+        margin-top: 166px ;
+        margin-left: 100px ;
+    }
+    .img-chestplates {
+        position: relative;
+        right:95px ;
+        margin-top: 10px ;
+    }
+    .img-craft8 {
+        margin-top: 166px ;
+        margin-left: 100px ;
+    }
+    .img-leggings {
+        position: relative;
+        right: 100px ;
+        margin-top: 10px;
+    }
+    .img-craft9 {
+        margin-top: 166px ;
+        margin-left: 100px ;
+    }
+    .img-boots {
+        position: relative;
+        right: 100px;
+        margin-top: 10px;
+    }
+    .img-craft10 {
+        margin-top: 166px ;
+        margin-left: 100px ;
+        z-index: 3;
+    }
+    .img-sheild {
+        position: relative;
+        right: 95px ;
+        margin-top: 10px ;
+    }
+
+/* elementning ichki rassmi 3-qator  */
+
+body {
+    background-color: #494949;
+    
+}
+.cantenir {
+    position: relative;
+    bottom: 1000px ;
+    left: 50px ;
+
+} 
+    .bacground-img {
+    border-radius: 250px 200px 600px  200px   ; 
+    z-index: -1;
+    position: absolute;
+    top: 0;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+ /* hover  */
+ .asosiy-element:hover {
+    border: 5px solid white ;
+ }
+ .asosiy-element1:hover {
+    border: 5px solid white ;
+ }
+ .asosiy-element2:hover {
+    border: 5px solid white ;
+ }
+ .asosiy-element3:hover {
+    border: 5px solid white ;
+ }
+ .asosiy-element4:hover {
+    border: 5px solid white ;
+ }
+
+
+ /* hover  */
+ 
+ 

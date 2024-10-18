@@ -1,0 +1,276 @@
+/* img sahifasi */
+.countainer-top {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+    box-shadow: 10px 0px 5px 0px ;
+    height: 100px ;
+    background-color: white;
+    
+}
+body {
+    margin: 0px;
+    position: absolute;
+    top: 0;
+}
+.img2 {
+    position: relative;
+    right: 7px ;
+    display: inline-block;
+}
+.img1 {
+    margin-bottom: 23px ;
+    margin-left: 20px ;
+    display: inline-block;
+}
+.img3 {
+    margin-bottom: 15px ;
+    position: relative;
+    right: 14px ;
+    display: inline-block;
+    
+}
+.brand {
+    display: inline-block;
+}
+/* img sahifasi */
+
+/* text sahifasi */
+    .nav-all {
+        display: inline-block;
+        vertical-align: middle;
+        margin: 10px ;
+        position: relative;
+        bottom: 17px ;
+        left: 850px ;
+        font-weight: bold;
+        font-size: 20px ;
+
+    }
+    .nav-all_items {
+        display: inline-block;
+        vertical-align: middle;
+        
+        
+    }
+    .knopka {
+        margin-left: 65px ;
+        
+    }
+    .knopka-style {
+        padding: 13px 70px ;
+        background-color: cyan;
+        border: none;
+        border-radius: 20px 0px 20px 0px ;
+        color: white;
+        box-shadow: 0 0 5px cyan, 0 0 25px cyan;
+    }
+    .knopka-style:hover {
+        box-shadow: 0 0 5px cyan,
+        0 0 25px cyan, 0 0 50px cyan,
+        0 0 100px cyan, 0 0 200px cyan  ;
+    }
+    
+    .none {
+        text-decoration: none;
+        color: black;
+
+    }
+
+/* text sahifasi */
+
+/* text-center sahifasi */
+    p {
+        font-size: 13px ;
+        color: gray;
+        position: relative;
+        bottom: 30px    ;
+    }
+    span {
+        color: black;
+    }
+    .text-center {
+        margin-top: 100px ;
+        margin-left: 180px ;
+        font-size: 30px ;
+    }
+    h1 {
+        position: relative;
+        top: 40px ;
+    }
+    h4 {
+        font-size: 20px ;
+        position: relative;
+        bottom: 45px ;
+        left: 40px ;
+    }
+    
+/* text-center sahifasi */
+
+/* asosiy rasm style */
+.asosiy-rasm {
+    position: relative;
+    left: 1000px ;
+    bottom: 380px ;
+    z-index: 2;
+
+}
+.asosiy-rasm_style {
+    position: relative;
+    left: 300px ;
+    bottom: 380px ;
+    border-radius: 60%;
+}
+body {
+    margin: 0%;
+}
+
+.nav-all_items:hover {
+    color: gray;
+}
+.iconka{
+    position: relative;
+    right: 1200px ;
+    bottom: 20px ;
+    width: 350px;
+}
+.iconka2{
+   position: relative;
+   bottom: 350px ;
+   width: 200px ;
+   left: 825px ;
+}
+.png-stic {
+    position: relative;
+    left: 1200px ;
+    bottom: 320px ;
+}
+
+
+
+/* responcive design  */
+    @media (max-width:480px) {
+        /* tepa qism */
+        .img1 {
+            position: relative;
+            top: 5px ;
+            right: 50px ;
+            margin-bottom: 18px ;
+            margin-left: 150px ;
+            
+            width: 70px ;
+            height: 20px ;
+        }
+        .img2 {
+            position: relative;
+            right: 50px ;
+            
+            width: 50px ;
+            height: 50px ;
+        }
+        .img3 {
+            margin-bottom: 15px ;
+            position: relative;
+            top: 5px ;
+            right: 55px ;
+            width: 80px ;
+            height: 20px ;
+        }
+
+        .nav-all {
+          
+            margin: 10px ;
+            position: relative;
+            top: 30px ;
+           
+            
+            font-weight: bold;
+            font-size: 15px ;
+    
+        }
+        .nav-all_items {
+            position: relative;
+            right: 630px ;
+            margin: 5px ;
+            
+        }
+       
+        .knopka {
+            margin-left: 40px ;
+            
+        }
+        .knopka-style {
+            padding: 7px 30px ;
+            background-color: cyan;
+            border: none;
+            border-radius: 20px 0px 20px 0px ;
+            color: white;
+            box-shadow: 0 0 5px cyan, 0 0 25px cyan;
+            position: relative;
+            right: 1150px ;
+        }
+        .knopka-style:hover {
+            box-shadow: 0 0 5px cyan,
+            0 0 25px cyan, 0 0 50px cyan,
+            0 0 100px cyan, 0 0 200px cyan  ;
+        }
+          /* tepa qism */
+
+          /* center qism */
+          p {
+            font-size: 13px ;
+            color: gray;
+            position: relative;
+            bottom: 30px    ;
+        }
+        span {
+            color: black;
+        }
+        .text-center {
+            margin-top: 1000px ;
+            position: relative;
+            bottom: 450px ;
+            margin-left: 20px ;
+            font-size: 30px ;
+        }
+        h1 {
+            position: relative;
+            top:20px ;
+            font-size: 30px ;
+        }
+        h4 {
+            font-size: 20px ;
+            position: relative;
+            bottom: 45px ;
+            left: 40px ;
+        }
+        h3 {
+            font-size: 25px ;
+        }
+        /* center qism  */
+        
+        /* center rasm  */
+        .asosiy-rasm {
+            position: relative;
+            left: 70px ;
+            bottom: 1130px ;
+            z-index: 2;
+            width: 300px ;
+            height: auto;
+        
+        }
+        .asosiy-rasm_style {
+            position: relative;
+            left: 25px ;
+            bottom: 1490px ;
+            border-radius: 50px 900px 50px 200px  ;
+            width: 370px ;
+            height:350px ;
+        }
+        /* center rasm  */
+
+       
+    }
+/* responcive design  */
